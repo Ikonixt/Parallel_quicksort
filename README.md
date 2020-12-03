@@ -1,8 +1,8 @@
 # Parallel Quicksort
 A hybrid quicksort using rayon in rust
 
-Functional and Parallel Programming 2020-T1
-By: 6280632 - Gorramuth P.
+Functional and Parallel Programming 2020-T1 |
+By: 6280632 - Gorramuth P. |
 Submitted to: Ajarn Rachata Ausavarungnirun 
 
 This project attempts to optimize the parallelization of the quicksort algorithm. In this case, during the partitioning
