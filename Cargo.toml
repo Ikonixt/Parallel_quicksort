@@ -1,0 +1,11 @@
+[package]
+name = "sortproject"
+version = "0.1.0"
+authors = ["invektus13 <decipherus150@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rayon = "~1.0"
+rand = "0.7.3"
